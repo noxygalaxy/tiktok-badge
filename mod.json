@@ -1,0 +1,35 @@
+{
+    "gd": {
+        "win": "2.206"
+    },
+    "geode": "3.8.1",
+    "version": "v1.0.1",
+    "id": "noxy.tiktok_badge",
+    "name": "TikTok Badge",
+    "developer": "Noxy",
+    "description": "Adds a TikTok badge to profiles",
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    },
+    "dependencies": [
+        {
+            "id": "jouca.badgesapi",
+            "version": ">=v1.1.0",
+            "importance": "required"
+        },
+        {
+            "id": "geode.node-ids",
+            "version": "v1.0.0",
+            "importance": "required"
+        }
+    ],
+    "tags": [
+        "online",
+        "interface",
+        "content",
+        "customization",
+        "enhancement"
+    ]
+}
