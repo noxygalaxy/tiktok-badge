@@ -1,5 +1,7 @@
+# 1.0.2
+ * Badge icon changed
+
 # 1.0.1
-Mod is done!
  * Added - PixelLolka
  * Added - DozyGMD
  * Added - renverw
