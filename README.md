@@ -7,3 +7,6 @@ i dont think it gonna be accepted, but thats fineee!
 <img src="https://img.shields.io/github/created-at/noxygalaxy/tiktok-badge?style=for-the-badge" style="text-align: center;"></img>
 
 <img src="logo.png" width="150" alt="the mod's logo" />
+
+
+go to [issues](https://github.com/noxygalaxy/tiktok-badge/issues) if you have problems with mod
